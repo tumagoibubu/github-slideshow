@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: ccccc
+title: ccccc
 ---
-Your text
-Use the left arrow to go back!
+cccvcc
+![GitHub Logo](/images/logo.png)
